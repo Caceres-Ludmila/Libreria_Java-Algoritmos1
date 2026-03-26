@@ -18,6 +18,35 @@ El objetivo de este trabajo fue construir un proyecto aplicando el paradigma de 
 * **Documentación técnica de la librería**: Detalles de implementacion de modulos, métodos y ejemplos de uso.
 * **Presentación TP librería Java**: presentación del proyecto finalizado. 
 
+# Herramientas
+* **IntelliJ IDEA**
+* **Git, GitHub**
+* **Draw.io, Mural**
+* **JUnit**
+
+# Funcionalidades principales
+* Carga y descarga de datos en archivos csv.
+* Creación y modificación de estructuras tabulares.
+* Acceso a través de filas, columnas y celdas.
+* Selección de datos.
+* Filtro de datos.
+* Copia y concatenación de estructuras.
+* Ordenamiento condicional de datos.
+* Muestreo aleatorio.
+* Manejo de valores faltantes(NA).
+* Visualización de tablas en formato texto.
+
+# Grupo de trabajo
+* **Caceres, Ludmila**
+* **Floridia, Micaela**
+* **Silvetti, Santino**
+* **Vilanueva, Leandro**
+
+# Aclaraciones
+Este repositorio fue realizado con fines unicamente académicos.
+
+
+
 
 
 
